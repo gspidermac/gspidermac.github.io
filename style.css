@@ -3,6 +3,11 @@ section {
   margin: 36px auto;
 }
 
+body {
+  background-color: #1e252e;
+  color: #e6e6e6;
+}
+
 pre {
   line-height: 1.3;
   font-size: 14px;
